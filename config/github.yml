@@ -1,11 +1,11 @@
 development:
-  key: ''
-  severt: ''
+  key: '123'
+  secret: '456'
 
 test:
   key: ''
-  severt: ''
+  secret: ''
 
 production:
   key: ''
-  severt: ''
+  secret: ''
